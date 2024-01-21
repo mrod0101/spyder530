@@ -19,3 +19,6 @@ sympy
 
 # Spyder external plugins
 spyder-terminal>=1.2.2
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
