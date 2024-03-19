@@ -41,3 +41,4 @@ spyder-kernels >=2.3.0,<2.4.0
 textdistance >=4.2.0
 three-merge >=0.1.1
 watchdog >=0.10.3
+black>=24.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
